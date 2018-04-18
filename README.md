@@ -1,2 +1,2 @@
 # views_counter_field
-Module drupal 8 to counter field in views
+Module drupal 8 to add counter field to views
