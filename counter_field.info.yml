@@ -1,0 +1,5 @@
+name: 'counter_field'
+type: module
+description: 'Module drupal 8 counter field to views'
+package: 'Custom'
+core: 8.x
